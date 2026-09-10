@@ -1,4 +1,4 @@
-# İstanbul için derin öğrenme ile günlük yağış ölçek küçültme
+# İstanbul İçin Derin Öğrenme İle Günlük Yağış Ölçek Küçültme
 
 Mevcut **Ocak–Mart 1981** ERA5 ve ERA5-Land dosyalarıyla çalışan bir yöntem deneyi.
 ERA5 atmosfer alanlarından aynı günün ERA5-Land yağışını kestirir. Gelecek iklim
