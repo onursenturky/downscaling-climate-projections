@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+.venv-*/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+backups/
+IST_domain/
+models/
+results/
+code_carbon/
+.cdsapirc
